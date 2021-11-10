@@ -1,6 +1,6 @@
 require "json"
 require "open3"
-require "../lib/report"
+require "lib/report"
 
 @report = Report.new(__dir__)
 
