@@ -1,0 +1,13 @@
+{
+  "version": 0,
+  "grade": "skip",
+  "status": "success",
+  "feedback": [
+
+  ],
+  "report": [
+    {
+      "key": "critical_tests_passed"
+    }
+  ]
+}
