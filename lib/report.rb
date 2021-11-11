@@ -1,5 +1,5 @@
 require "yaml"
-require "active_support"
+require "active_support/all"
 
 class Report
   def initialize(dir)
